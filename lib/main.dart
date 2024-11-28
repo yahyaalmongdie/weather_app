@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-
 import 'package:flutter_bloc/flutter_bloc.dart';
-
 import 'package:provider/provider.dart';
 
 import 'package:weather_app/cubits/weather_cubit/weather_cubit.dart';
