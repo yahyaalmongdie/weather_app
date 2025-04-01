@@ -8,7 +8,6 @@ import 'package:weather_app/providers/weather_provider.dart';
 import 'package:weather_app/services/weather_service.dart';
 void main() {
 
-
   
   
 
