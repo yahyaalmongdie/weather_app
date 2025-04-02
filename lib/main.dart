@@ -9,7 +9,6 @@ import 'package:weather_app/services/weather_service.dart';
 void main() {
 
   
-
   runApp(BlocProvider(
       create: (context) {
 
