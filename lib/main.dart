@@ -18,7 +18,6 @@ void main() {
 
 }
 
-
 class WeatherApp extends StatelessWidget {
 
   @override
